@@ -834,7 +834,7 @@
     "destination_icon": "arcaeawiki.png",
     "destination_main_page": "Arcaea_Fan_Wiki",
     "destination_search_path": "/w/index.php",
-    "destination_content_path": "/wiki/$1",
+    "destination_content_path": "/wiki/",
     "destination_host": "Miraheze"
   },
   {
